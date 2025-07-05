@@ -14,7 +14,10 @@ I'm a self-taught developer transitioning from a cybersecurity background into f
     React (in progress)
     Git & GitHub
     Linux
-    CompTIA Security+ (Cybersecurity background)
+    
+    CompTIA Security+
+    Google Cybersecurity
+    Cloud Security
 
 📫 **Get in touch:** schullarj@proton.me | [LinkedIn](https://www.linkedin.com/in/jamesschullar/)
 
