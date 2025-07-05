@@ -16,6 +16,7 @@ Systems: Linux and Windows
 
 Languages: Python, Javascript.
 
-📫 Get in touch: schullarj@proton.me | LinkedIn
+📫 **Get in touch:** schullarj@proton.me | [LinkedIn](https://www.linkedin.com/in/jamesschullar/)
+
 
 ![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syntasy&show_icons=true&theme=github_dark)
