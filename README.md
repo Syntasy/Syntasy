@@ -1,20 +1,16 @@
-Hi, I’m James 👋
+Hi, I'm James 👋
 
-Cybersecurity enthusiast turned security engineer in training.
+I'm a self-taught developer transitioning from a cybersecurity background into full-stack web development.
+🧠 Currently focused on: HTML, CSS, JavaScript, and React
+🎯 Goal: Land a junior developer role and build clean, useful, real-world projects
+🌍 Open to relocation, on-site, or remote opportunities
+🔧 Tools & Technologies
 
-🔒 Certifications
-
-CompTIA Security+ (SY0-701)
-
-Google Cybersecurity Professional Certificate
-
-Coursera Cloud Security Specialization
-
-💻 Key Skills
-
-Systems: Linux and Windows
-
-Languages: Python, Javascript.
+    HTML / CSS / JavaScript
+    React (in progress)
+    Git & GitHub
+    Linux
+    CompTIA Security+ (Cybersecurity background)
 
 📫 **Get in touch:** schullarj@proton.me | [LinkedIn](https://www.linkedin.com/in/jamesschullar/)
 
